@@ -6,7 +6,8 @@
 # Abstract
 <p>
 The point of this project is applying Fast Fourier Transform algorithm that converts a signal from its time domain to a representation in frequency domain and thus implementing the same 
-to exterminate noises from our dataset.<p/p>
+to exterminate noises from our dataset. 
+<p/p>
 <br>
 
 # Teammembers
@@ -28,7 +29,7 @@ to exterminate noises from our dataset.<p/p>
 # Description
 
 # DataDenoiser
-  The project commences with the creation of a simple dataset, which is a summation of two sinusodial waves of different frequencies and introducing noise to that dataset. Thereafter we used the Fast Fourier Transform to pull out the structure,data and the noise. (The fourier analysis converts a signal from its time domain into frequency domain and vice versa). Following this we killed all the frequencies whose power was less than a specific threshold, consequently obtaining a clean dataset without any noises.
+  The project commenced with the creation of a simple dataset, which is a summation of two sinusoidal waves of different frequencies and noise was introduced to that dataset. Thereafter the Fast Fourier Transform was used to pull out the structure, data and the noise. The signal was converted from its time domain to frequency domain and vice versa using Fourier analysis. Followingly, all the frequencies whose power was less than a specific threshold were detached, consequently obtaining a clean dataset without any noises.
 <br>
   <p>
 # Usefullinks 
