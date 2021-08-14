@@ -27,7 +27,8 @@ to exterminate noises from our dataset.<p/p>
 
 # Description
 
-# DataDenoiser The project commences with the creation of a simple dataset, which is a summation of two sinusodial waves of different frequencies and introducing noise to that dataset. Thereafter we used the Fast Fourier Transform to pull out the structure,data and the noise. (The fourier analysis converts a signal from its time domain into frequency domain and vice versa). Following this we killed all the frequencies whose power was less than a specific threshold, consequently obtaining a clean dataset without any noises.
+# DataDenoiser
+  The project commences with the creation of a simple dataset, which is a summation of two sinusodial waves of different frequencies and introducing noise to that dataset. Thereafter we used the Fast Fourier Transform to pull out the structure,data and the noise. (The fourier analysis converts a signal from its time domain into frequency domain and vice versa). Following this we killed all the frequencies whose power was less than a specific threshold, consequently obtaining a clean dataset without any noises.
 <br>
   <p>
 # Usefullinks 
