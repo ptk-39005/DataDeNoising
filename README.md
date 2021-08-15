@@ -20,8 +20,8 @@ to exterminate noises from our dataset.
 <br>
   •<a  href="https://www.python.org/">Python</a> 
   <br>
-# Software
-  <br>
+
+
 </b>
 • <a href="https://jupyter.org/">Jupyter Notebook</a>
 <br>
